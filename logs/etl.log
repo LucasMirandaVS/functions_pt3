@@ -1,0 +1,24 @@
+2025-01-06 12:57:48,468 - INFO - Executando pipeline
+2025-01-06 12:57:48,468 - INFO - Executando extrair_dados
+2025-01-06 12:57:48,521 - INFO - extrair_dados retornou um DataFrame com 0 valores nulos
+2025-01-06 12:57:48,521 - INFO - extrair_dados executou em 0.05 segundos
+2025-01-06 12:57:48,521 - INFO - Finalizou extrair_dados
+2025-01-06 12:57:48,521 - INFO - Executando transformar_dados
+2025-01-06 12:57:48,521 - INFO - transformar_dados retornou um DataFrame com 0 valores nulos
+2025-01-06 12:57:48,521 - INFO - transformar_dados executou em 0.00 segundos
+2025-01-06 12:57:48,521 - INFO - Finalizou transformar_dados
+2025-01-06 12:57:48,521 - INFO - Executando carregar_dados
+2025-01-06 12:59:02,522 - INFO - Executando pipeline
+2025-01-06 12:59:02,522 - INFO - Executando extrair_dados
+2025-01-06 12:59:02,537 - INFO - extrair_dados retornou um DataFrame com 0 valores nulos
+2025-01-06 12:59:02,537 - INFO - extrair_dados executou em 0.02 segundos
+2025-01-06 12:59:02,537 - INFO - Finalizou extrair_dados
+2025-01-06 12:59:02,537 - INFO - Executando transformar_dados
+2025-01-06 12:59:02,537 - INFO - transformar_dados retornou um DataFrame com 0 valores nulos
+2025-01-06 12:59:02,537 - INFO - transformar_dados executou em 0.00 segundos
+2025-01-06 12:59:02,537 - INFO - Finalizou transformar_dados
+2025-01-06 12:59:02,537 - INFO - Executando carregar_dados
+2025-01-06 12:59:02,891 - INFO - carregar_dados executou em 0.35 segundos
+2025-01-06 12:59:02,891 - INFO - Finalizou carregar_dados
+2025-01-06 12:59:02,891 - INFO - pipeline executou em 0.37 segundos
+2025-01-06 12:59:02,891 - INFO - Finalizou pipeline
